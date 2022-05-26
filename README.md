@@ -1,2 +1,3 @@
 # shutdown-doc
- Documentation of the Shutdown RPG
+
+Documentation of the Shutdown RPG
