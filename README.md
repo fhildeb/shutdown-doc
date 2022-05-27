@@ -16,5 +16,5 @@ The Documentation to the 2D Pixelart Role Play Game Shutdown features:
 ## Communication between Major Classes
 ![Classes Communication](/img/classes-communication.png)
 
-## Relation between Majro Classes
+## Relation between Major Classes
 ![Classes Relation](/img/classes-relation.png)
